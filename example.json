@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "message": "Response Successful",
+    "status_code": 200,
+    "data": {
+        "your_custom_data": "based_on_api_and_or_your_need"
+    }
+}
